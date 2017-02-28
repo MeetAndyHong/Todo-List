@@ -1,5 +1,5 @@
 # JQuery TODO List
-1. 基本添加删除事件
-2. 存储到Local Storage
-3. 支持拖曳
+1. Add and delete event
+2. store in local storage
+3. support for drag
 
